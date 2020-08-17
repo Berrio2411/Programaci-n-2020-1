@@ -11,7 +11,7 @@ else :
 
 # Dada una temperatura determinar si el paciente esta sano o no
 # Temperatura menor a 36 grados hipotermia
-# Temperatura en el intervalo 36-38 normal
+# Temperatura en el intervalo 36-37.5 normal
 # Temperatura en el intervalo 37.5-38 alerta
 # Temperatura mayor a 38 fiebre 
 # Muestre el nombre del paciente y estado

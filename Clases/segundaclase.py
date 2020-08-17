@@ -13,3 +13,6 @@ print(type(estatura))
 if(edad >= 18) :
     print ("usted es mayor de edad")
     print ("ya eres todo un adulto")
+
+if (estatura > 1.70):
+    print("eres muy alto")
