@@ -2,6 +2,7 @@ name = (input("por favor ingrese su nombre : "))
 estatura = float(input("ingrese la  estatura del paciente : "))
 peso = float(input("ingrese el peso del paciente en Kg : "))
 
+print("hola",name, "eres bienvenido") 
 imc = peso /estatura**2
 print(imc)
 
