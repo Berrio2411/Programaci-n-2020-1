@@ -1,9 +1,9 @@
 nombre= (input("por favor ingrese su nombre : "))
-pais= (input("ingrese su pais  de procedencia : "))
+pais= (input("ingrese su pais  de procedencia con la  primera letra en mayuscula : "))
 
 
 print ("hola",nombre,"eres bienvenido")
-if (pais=="china" or pais=="Italia" or pais =="Iran"):
+if (pais=="China" or pais=="Italia" or pais =="Iran"):
     print(f"el pasejero de nommbre {nombre} procedente de {pais} debe estar  bajo observación")
 
 temperatura= float(input("ingrese su temperatura en C : "))
