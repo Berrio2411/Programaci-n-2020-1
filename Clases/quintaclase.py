@@ -2,7 +2,7 @@
 preguntaNumero= "igrese un número del 1 al 10 : "
 
 #Preguntas
-numeroIgresado= int(input(preguntaNumero))
+
 
 #Mensaje
 mensajeFallido="Fallaste,no es el número secreto"
