@@ -14,7 +14,7 @@ else :
 # Temperatura en el intervalo 36-37.5 normal
 # Temperatura en el intervalo 37.5-38 alerta
 # Temperatura mayor a 38 fiebre 
-# Muestre el nombre del paciente y estado
+# Muestre el nombre del paciente y estado 
 
 name= (input("ingrese nombre del paciente : "))
 temperatura= float(input("ingrese la temperatura del paciente : "))
