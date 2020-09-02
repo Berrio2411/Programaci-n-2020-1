@@ -1,7 +1,6 @@
 #Ciclos Whyle
 preguntaNumero= "igrese un número del 1 al 10 : "
 
-#Preguntas
 
 
 #Mensaje
