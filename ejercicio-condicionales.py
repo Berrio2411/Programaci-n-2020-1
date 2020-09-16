@@ -31,3 +31,6 @@ elif (edad >= 26 and edad <61) :
     print (mensajeClasificacion.format('Adulto'))  
 else :
     print (mensajeClasificacion.format('Adulto Mayor')) 
+
+#Ejercicio 3 
+

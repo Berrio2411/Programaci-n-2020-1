@@ -29,7 +29,6 @@ opcion=int(input(preguntaMenu))
 
 #---Calculos preliminares---#
 listaPesos=[]
-listaDolares=[]
 listaEuros=[]
 listaClasificacion=[]
 
@@ -92,9 +91,14 @@ while(opcion!=4):
         print(mensajeEntradaNoValidaN)
 
 
+    #Variable opción1
+    
+    opcion=int(input(preguntaMenu))
 
-#Variable opcion
-opcion=int(input(preguntaMenu))
+
+
+
+
 
 #Despedida
 print(mensajeSalida)
