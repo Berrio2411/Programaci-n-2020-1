@@ -32,7 +32,7 @@ def paresLista(lista):
   pares = []
   for elemento in lista:
     if elemento % 2 == 0 :
-       pares.append (elemento)
+      pares.append (elemento)
   return pares
 
 edades = [23,22,12,56,17,43,66,13]
@@ -61,3 +61,7 @@ def calcularIMC (peso, altura):
 imc = calcularIMC(65, 1.78)
 print (imc) 
 
+# Crea un función que sirva para despedirte del que esta ejecutando el código
+def chao():
+  print ("Muchas gracias por venir,fue un placer tenerte por aca!!")
+chao()
