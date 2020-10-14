@@ -20,10 +20,11 @@ nombre=input('Ingrese su nombre : ')
 edad=int(input('Ingrese su edad : '))
 opinion= input('Ingrese su opinión : \n')
 
-archivo= open('opinion','w',encoding='UTF-8')
+archivo= open('opinion.txt','w',encoding='UTF-8')
 archivo.write(f'opinion de {nombre}\n')
 archivo.write(f'Edad : {edad}\n')
 archivo.write(f'Reseña : {opinion}\n')
+archivo.close()
 
 
 
